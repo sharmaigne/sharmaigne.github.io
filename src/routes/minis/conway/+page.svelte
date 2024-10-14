@@ -1,4 +1,5 @@
 <script lang="ts">
+  export const prerender = true;
   var height = 10;
   var width = 10;
 
